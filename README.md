@@ -1,4 +1,4 @@
-# Temperature_Variations
+# Tracking Temperatures
 Time series analysis to model and predict temperature across five cities in the United States.
 
 ## Data Overview:
