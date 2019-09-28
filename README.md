@@ -20,9 +20,11 @@ These cities are chosen because they represent different climates, geography in 
 The data is split by time - the training data ranges from January 1800 to December 2011 while the test set contains temperature values as of and after January 2012.
 
 ## III Conclusion:
-The analysis performed looks at identifying trends in the temperature data across the years and making predictions for temperature for 5 different cities in the United States. Through the analysis, it can be concluded that:
+The analysis performed looks at identifying trends in the temperature data across the years and making predictions for temperature for 5 different cities in the United States. 
 
 ![climatep](https://github.com/haniazam/Tracking_Temperatures/blob/master/climate_predictions.png)
+
+It can be concluded that:
 - No discernable trend was observed in the temperature values for each of the cities during the exploratory phase.
 - ARIMA model used for prediction of the temperature values, makes the best predictions for Los Angeles and Houston.
 
