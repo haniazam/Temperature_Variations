@@ -22,6 +22,7 @@ The data is split by time - the training data ranges from January 1800 to Decemb
 ## III Conclusion:
 The analysis performed looks at identifying trends in the temperature data across the years and making predictions for temperature for 5 different cities in the United States. Through the analysis, it can be concluded that:
 
+[]climatep(/climate_predictions.png)
 - No discernable trend was observed in the temperature values for each of the cities during the exploratory phase.
 - ARIMA model used for prediction of the temperature values, makes the best predictions for Los Angeles and Houston.
 
